@@ -34,3 +34,6 @@ java HelloWorld
 The example done from Git
 
 ## 18/07/2020 Git Trigger
+
+
+## Trigger using Jenkins
